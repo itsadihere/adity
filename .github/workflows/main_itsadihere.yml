@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'itsadihere'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d5ee5ab2c7c545e08c9aeb667037df01 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eeed0700f70e42b38489f46f36f3e9d3 }}
         package: .
